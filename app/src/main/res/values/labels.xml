@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_invalid_password">Invalid Password</string>
+    <string name="error_field_required_email">Email is mandatory.</string>
+    <string name="error_invalid_email">Invalid email.</string>
+    <string name="label_login_message">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+</resources>
